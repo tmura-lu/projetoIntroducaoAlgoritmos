@@ -2,7 +2,8 @@
 
 - projeto pratico feito para a materia Introducao aos Algoritmos, do primeiro periodo de CS na Universidade Federal de Lavras
 - tema "Jogos mais jogados na STEAM"
-- banco de dados retirado do site SteamDB
+- dados retirados do site SteamDB
+- irei colocar junto os dados que utilizei como exemplo, em um arquivo .csv
 
 # funcionalidades
 

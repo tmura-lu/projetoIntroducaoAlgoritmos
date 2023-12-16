@@ -1,7 +1,4 @@
 /*
-    Relatório do Projeto Prático - 2023/2
-    Grupo 20: Lucca Guedes Batistela, Alencar Henrique Lage Avelar e Emanuel Oliveira de Assis Domingues
-    Tema: Jogos mais jogados na Steam
     Campos:  nome: (string com espaco)
                 valor: (float)
                 data: (string)
